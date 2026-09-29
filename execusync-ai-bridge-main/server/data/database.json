@@ -1,0 +1,1500 @@
+{
+  "activities": [
+    {
+      "id": "CIV-A-0101",
+      "name": "Site Grading & Compaction Area A",
+      "level": "L6",
+      "wbs": "OIL-REF.U2.A.CIV",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Civil",
+      "area": "Area A",
+      "plannedStart": "2026-07-30",
+      "plannedFinish": "2026-08-09",
+      "duration": 10,
+      "actualStart": "2026-07-31",
+      "actualFinish": "2026-08-10",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Brahmaputra Civil Works",
+      "verification": "Planner Verified",
+      "aiConfidence": 88
+    },
+    {
+      "id": "CIV-A-0102",
+      "name": "Foundation F-102 Concreting",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.CIV",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Civil",
+      "area": "Area A",
+      "plannedStart": "2026-09-20",
+      "plannedFinish": "2026-09-30",
+      "duration": 10,
+      "actualStart": "2026-09-21",
+      "actualFinish": null,
+      "progress": 85,
+      "dependencies": [],
+      "contractor": "Brahmaputra Civil Works",
+      "verification": "Planner Verified",
+      "aiConfidence": 89
+    },
+    {
+      "id": "CIV-A-0105",
+      "name": "Pipe Rack PR-1 Foundations",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.CIV",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Civil",
+      "area": "Area A",
+      "plannedStart": "2026-08-14",
+      "plannedFinish": "2026-08-28",
+      "duration": 14,
+      "actualStart": "2026-08-16",
+      "actualFinish": "2026-08-30",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Brahmaputra Civil Works",
+      "verification": "Planner Verified",
+      "aiConfidence": 90
+    },
+    {
+      "id": "CIV-A-0108",
+      "name": "Equipment Foundation F-108",
+      "level": "L6",
+      "wbs": "OIL-REF.U2.A.CIV",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Civil",
+      "area": "Area A",
+      "plannedStart": "2026-08-29",
+      "plannedFinish": "2026-09-10",
+      "duration": 12,
+      "actualStart": "2026-08-29",
+      "actualFinish": "2026-09-11",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Brahmaputra Civil Works",
+      "verification": "Planner Verified",
+      "aiConfidence": 91
+    },
+    {
+      "id": "CIV-A-0110",
+      "name": "Anchor Bolt Grouting F-108",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.CIV",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Civil",
+      "area": "Area A",
+      "plannedStart": "2026-09-08",
+      "plannedFinish": "2026-09-12",
+      "duration": 4,
+      "actualStart": "2026-09-09",
+      "actualFinish": "2026-09-13",
+      "progress": 100,
+      "dependencies": [
+        "CIV-A-0108"
+      ],
+      "contractor": "Brahmaputra Civil Works",
+      "verification": "Planner Verified",
+      "aiConfidence": 92
+    },
+    {
+      "id": "CIV-B-0112",
+      "name": "Pump Foundation P-101 Plinth",
+      "level": "L5",
+      "wbs": "OIL-REF.U3.B.CIV",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Civil",
+      "area": "Area B",
+      "plannedStart": "2026-08-19",
+      "plannedFinish": "2026-08-27",
+      "duration": 8,
+      "actualStart": "2026-08-19",
+      "actualFinish": "2026-08-28",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Brahmaputra Civil Works",
+      "verification": "Planner Verified",
+      "aiConfidence": 93
+    },
+    {
+      "id": "CIV-B-0118",
+      "name": "Underground Drainage Network",
+      "level": "L6",
+      "wbs": "OIL-REF.U3.B.CIV",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Civil",
+      "area": "Area B",
+      "plannedStart": "2026-09-16",
+      "plannedFinish": "2026-10-06",
+      "duration": 20,
+      "actualStart": "2026-09-21",
+      "actualFinish": null,
+      "progress": 30,
+      "dependencies": [],
+      "contractor": "Brahmaputra Civil Works",
+      "verification": "Planner Verified",
+      "aiConfidence": 94
+    },
+    {
+      "id": "CIV-C-0124",
+      "name": "Cable Trench Excavation Unit 2",
+      "level": "L5",
+      "wbs": "OIL-REF.U4.C.CIV",
+      "unit": "U4 – Utilities Construction",
+      "discipline": "Civil",
+      "area": "Area C",
+      "plannedStart": "2026-08-24",
+      "plannedFinish": "2026-09-03",
+      "duration": 10,
+      "actualStart": "2026-08-26",
+      "actualFinish": "2026-09-06",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Brahmaputra Civil Works",
+      "verification": "Planner Verified",
+      "aiConfidence": 95
+    },
+    {
+      "id": "CIV-C-0130",
+      "name": "Road & Paving Utilities Block",
+      "level": "L5",
+      "wbs": "OIL-REF.U4.C.CIV",
+      "unit": "U4 – Utilities Construction",
+      "discipline": "Civil",
+      "area": "Area C",
+      "plannedStart": "2026-10-04",
+      "plannedFinish": "2026-10-19",
+      "duration": 15,
+      "actualStart": null,
+      "actualFinish": null,
+      "progress": 0,
+      "dependencies": [],
+      "contractor": "Brahmaputra Civil Works",
+      "verification": "System Recorded",
+      "aiConfidence": null
+    },
+    {
+      "id": "PIP-A-0240",
+      "name": "Pipe Rack PR-1 Steel Erection",
+      "level": "L6",
+      "wbs": "OIL-REF.U2.A.PIP",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Piping",
+      "area": "Area A",
+      "plannedStart": "2026-08-27",
+      "plannedFinish": "2026-09-08",
+      "duration": 12,
+      "actualStart": "2026-08-28",
+      "actualFinish": "2026-09-10",
+      "progress": 100,
+      "dependencies": [
+        "CIV-A-0105"
+      ],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": 97
+    },
+    {
+      "id": "PIP-A-0245",
+      "name": "Erect Line 24\"-XX",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.PIP",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Piping",
+      "area": "Area A",
+      "plannedStart": "2026-09-25",
+      "plannedFinish": "2026-09-30",
+      "duration": 5,
+      "actualStart": null,
+      "actualFinish": null,
+      "progress": 0,
+      "dependencies": [
+        "PIP-A-0240",
+        "PIP-A-0252"
+      ],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": null
+    },
+    {
+      "id": "PIP-A-0246",
+      "name": "Erect Line 18\"-YY",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.PIP",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Piping",
+      "area": "Area A",
+      "plannedStart": "2026-09-24",
+      "plannedFinish": "2026-10-01",
+      "duration": 7,
+      "actualStart": "2026-09-25",
+      "actualFinish": null,
+      "progress": 40,
+      "dependencies": [
+        "PIP-A-0240"
+      ],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": 89
+    },
+    {
+      "id": "PIP-A-0252",
+      "name": "Spool Fabrication Batch 3",
+      "level": "L6",
+      "wbs": "OIL-REF.U2.A.PIP",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Piping",
+      "area": "Area A",
+      "plannedStart": "2026-08-31",
+      "plannedFinish": "2026-09-14",
+      "duration": 14,
+      "actualStart": "2026-09-02",
+      "actualFinish": "2026-09-16",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": 90
+    },
+    {
+      "id": "PIP-A-0258",
+      "name": "Weld NDT Line 16\"-ZZ",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.PIP",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Piping",
+      "area": "Area A",
+      "plannedStart": "2026-09-22",
+      "plannedFinish": "2026-09-30",
+      "duration": 8,
+      "actualStart": "2026-09-23",
+      "actualFinish": null,
+      "progress": 55,
+      "dependencies": [],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": 91
+    },
+    {
+      "id": "PIP-A-0271",
+      "name": "Install Pipe Supports PR-1",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.PIP",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Piping",
+      "area": "Area A",
+      "plannedStart": "2026-09-19",
+      "plannedFinish": "2026-10-01",
+      "duration": 12,
+      "actualStart": "2026-09-21",
+      "actualFinish": null,
+      "progress": 60,
+      "dependencies": [
+        "PIP-A-0240"
+      ],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": 92
+    },
+    {
+      "id": "PIP-B-0277",
+      "name": "Erect Line 12\"-HT-04",
+      "level": "L6",
+      "wbs": "OIL-REF.U3.B.PIP",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Piping",
+      "area": "Area B",
+      "plannedStart": "2026-09-14",
+      "plannedFinish": "2026-09-24",
+      "duration": 10,
+      "actualStart": "2026-09-18",
+      "actualFinish": null,
+      "progress": 45,
+      "dependencies": [],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": 93
+    },
+    {
+      "id": "PIP-B-0280",
+      "name": "Erect Line 8\"-PR-07",
+      "level": "L5",
+      "wbs": "OIL-REF.U3.B.PIP",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Piping",
+      "area": "Area B",
+      "plannedStart": "2026-09-23",
+      "plannedFinish": "2026-10-01",
+      "duration": 8,
+      "actualStart": "2026-09-24",
+      "actualFinish": null,
+      "progress": 35,
+      "dependencies": [],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": 94
+    },
+    {
+      "id": "PIP-B-0283",
+      "name": "Hydrotest Loop HT-12",
+      "level": "L5",
+      "wbs": "OIL-REF.U3.B.PIP",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Piping",
+      "area": "Area B",
+      "plannedStart": "2026-10-02",
+      "plannedFinish": "2026-10-07",
+      "duration": 5,
+      "actualStart": null,
+      "actualFinish": null,
+      "progress": 0,
+      "dependencies": [
+        "PIP-B-0277"
+      ],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "System Recorded",
+      "aiConfidence": null
+    },
+    {
+      "id": "PIP-C-0290",
+      "name": "Cooling Water Header 30\"-CW",
+      "level": "L6",
+      "wbs": "OIL-REF.U4.C.PIP",
+      "unit": "U4 – Utilities Construction",
+      "discipline": "Piping",
+      "area": "Area C",
+      "plannedStart": "2026-09-08",
+      "plannedFinish": "2026-09-23",
+      "duration": 15,
+      "actualStart": "2026-09-11",
+      "actualFinish": null,
+      "progress": 50,
+      "dependencies": [],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": 96
+    },
+    {
+      "id": "PIP-C-0294",
+      "name": "Firewater Line 10\"-FW Erection",
+      "level": "L5",
+      "wbs": "OIL-REF.U4.C.PIP",
+      "unit": "U4 – Utilities Construction",
+      "discipline": "Piping",
+      "area": "Area C",
+      "plannedStart": "2026-08-21",
+      "plannedFinish": "2026-09-04",
+      "duration": 14,
+      "actualStart": "2026-08-22",
+      "actualFinish": "2026-09-06",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Assam Pipeline Constructors",
+      "verification": "Planner Verified",
+      "aiConfidence": 97
+    },
+    {
+      "id": "MEC-A-0501",
+      "name": "Static Equipment Installation V-201",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.MEC",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Mechanical",
+      "area": "Area A",
+      "plannedStart": "2026-09-03",
+      "plannedFinish": "2026-09-13",
+      "duration": 10,
+      "actualStart": "2026-09-04",
+      "actualFinish": "2026-09-14",
+      "progress": 100,
+      "dependencies": [
+        "CIV-A-0108"
+      ],
+      "contractor": "Northeast Mech Erectors",
+      "verification": "Planner Verified",
+      "aiConfidence": 88
+    },
+    {
+      "id": "MEC-A-0505",
+      "name": "Heat Exchanger E-204 Setting",
+      "level": "L6",
+      "wbs": "OIL-REF.U2.A.MEC",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Mechanical",
+      "area": "Area A",
+      "plannedStart": "2026-09-10",
+      "plannedFinish": "2026-09-18",
+      "duration": 8,
+      "actualStart": "2026-09-10",
+      "actualFinish": "2026-09-19",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Northeast Mech Erectors",
+      "verification": "Planner Verified",
+      "aiConfidence": 89
+    },
+    {
+      "id": "MEC-A-0508",
+      "name": "Column C-101 Internals Installation",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.MEC",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Mechanical",
+      "area": "Area A",
+      "plannedStart": "2026-09-21",
+      "plannedFinish": "2026-10-05",
+      "duration": 14,
+      "actualStart": "2026-09-23",
+      "actualFinish": null,
+      "progress": 35,
+      "dependencies": [],
+      "contractor": "Northeast Mech Erectors",
+      "verification": "Planner Verified",
+      "aiConfidence": 90
+    },
+    {
+      "id": "MEC-B-0514",
+      "name": "Storage Tank T-301 Shell Erection",
+      "level": "L5",
+      "wbs": "OIL-REF.U3.B.MEC",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Mechanical",
+      "area": "Area B",
+      "plannedStart": "2026-08-09",
+      "plannedFinish": "2026-09-08",
+      "duration": 30,
+      "actualStart": "2026-08-11",
+      "actualFinish": "2026-09-11",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Northeast Mech Erectors",
+      "verification": "Planner Verified",
+      "aiConfidence": 91
+    },
+    {
+      "id": "MEC-B-0518",
+      "name": "Air Cooler AC-3 Setting",
+      "level": "L6",
+      "wbs": "OIL-REF.U3.B.MEC",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Mechanical",
+      "area": "Area B",
+      "plannedStart": "2026-09-22",
+      "plannedFinish": "2026-10-02",
+      "duration": 10,
+      "actualStart": "2026-09-23",
+      "actualFinish": null,
+      "progress": 40,
+      "dependencies": [],
+      "contractor": "Northeast Mech Erectors",
+      "verification": "Planner Verified",
+      "aiConfidence": 92
+    },
+    {
+      "id": "MEC-A-0510",
+      "name": "Pump Installation P-101",
+      "level": "L5",
+      "wbs": "OIL-REF.U3.B.ROT",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Rotating",
+      "area": "Area B",
+      "plannedStart": "2026-09-29",
+      "plannedFinish": "2026-10-05",
+      "duration": 6,
+      "actualStart": null,
+      "actualFinish": null,
+      "progress": 0,
+      "dependencies": [
+        "CIV-B-0112"
+      ],
+      "contractor": "Kaziranga Rotating Services",
+      "verification": "System Recorded",
+      "aiConfidence": null
+    },
+    {
+      "id": "ROT-A-0520",
+      "name": "Compressor K-201 Alignment",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.ROT",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Rotating",
+      "area": "Area A",
+      "plannedStart": "2026-09-18",
+      "plannedFinish": "2026-09-28",
+      "duration": 10,
+      "actualStart": "2026-09-23",
+      "actualFinish": null,
+      "progress": 20,
+      "dependencies": [],
+      "contractor": "Kaziranga Rotating Services",
+      "verification": "Planner Verified",
+      "aiConfidence": 94
+    },
+    {
+      "id": "ROT-B-0526",
+      "name": "Pump P-102 Grouting",
+      "level": "L6",
+      "wbs": "OIL-REF.U3.B.ROT",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Rotating",
+      "area": "Area B",
+      "plannedStart": "2026-09-06",
+      "plannedFinish": "2026-09-10",
+      "duration": 4,
+      "actualStart": "2026-09-06",
+      "actualFinish": "2026-09-11",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Kaziranga Rotating Services",
+      "verification": "Planner Verified",
+      "aiConfidence": 95
+    },
+    {
+      "id": "ROT-C-0532",
+      "name": "Cooling Tower Fan CT-1 Installation",
+      "level": "L5",
+      "wbs": "OIL-REF.U4.C.ROT",
+      "unit": "U4 – Utilities Construction",
+      "discipline": "Rotating",
+      "area": "Area C",
+      "plannedStart": "2026-09-19",
+      "plannedFinish": "2026-10-01",
+      "duration": 12,
+      "actualStart": "2026-09-19",
+      "actualFinish": null,
+      "progress": 70,
+      "dependencies": [],
+      "contractor": "Kaziranga Rotating Services",
+      "verification": "Planner Verified",
+      "aiConfidence": 96
+    },
+    {
+      "id": "ROT-B-0538",
+      "name": "Pump P-103 Coupling Alignment",
+      "level": "L5",
+      "wbs": "OIL-REF.U3.B.ROT",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Rotating",
+      "area": "Area B",
+      "plannedStart": "2026-09-26",
+      "plannedFinish": "2026-10-01",
+      "duration": 5,
+      "actualStart": "2026-09-27",
+      "actualFinish": null,
+      "progress": 25,
+      "dependencies": [],
+      "contractor": "Kaziranga Rotating Services",
+      "verification": "Planner Verified",
+      "aiConfidence": 97
+    },
+    {
+      "id": "ELE-A-0308",
+      "name": "Substation SS-2 Earthing Grid",
+      "level": "L6",
+      "wbs": "OIL-REF.U2.A.ELE",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Electrical",
+      "area": "Area A",
+      "plannedStart": "2026-08-19",
+      "plannedFinish": "2026-08-31",
+      "duration": 12,
+      "actualStart": "2026-08-20",
+      "actualFinish": "2026-09-01",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Digboi Electricals Pvt Ltd",
+      "verification": "Planner Verified",
+      "aiConfidence": 88
+    },
+    {
+      "id": "ELE-A-0314",
+      "name": "Install Cable Tray Unit 2",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.ELE",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Electrical",
+      "area": "Area A",
+      "plannedStart": "2026-09-18",
+      "plannedFinish": "2026-10-02",
+      "duration": 14,
+      "actualStart": "2026-09-20",
+      "actualFinish": null,
+      "progress": 65,
+      "dependencies": [
+        "CIV-C-0124"
+      ],
+      "contractor": "Digboi Electricals Pvt Ltd",
+      "verification": "Planner Verified",
+      "aiConfidence": 89
+    },
+    {
+      "id": "ELE-A-0320",
+      "name": "Pull Power Cable Unit 2",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.ELE",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Electrical",
+      "area": "Area A",
+      "plannedStart": "2026-09-26",
+      "plannedFinish": "2026-10-06",
+      "duration": 10,
+      "actualStart": null,
+      "actualFinish": null,
+      "progress": 0,
+      "dependencies": [
+        "ELE-A-0314",
+        "PIP-A-0245"
+      ],
+      "contractor": "Digboi Electricals Pvt Ltd",
+      "verification": "Planner Verified",
+      "aiConfidence": null
+    },
+    {
+      "id": "ELE-B-0326",
+      "name": "Transformer TR-2 Installation",
+      "level": "L6",
+      "wbs": "OIL-REF.U3.B.ELE",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Electrical",
+      "area": "Area B",
+      "plannedStart": "2026-09-02",
+      "plannedFinish": "2026-09-08",
+      "duration": 6,
+      "actualStart": "2026-09-03",
+      "actualFinish": "2026-09-10",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Digboi Electricals Pvt Ltd",
+      "verification": "Planner Verified",
+      "aiConfidence": 91
+    },
+    {
+      "id": "ELE-B-0332",
+      "name": "MCC Panel Erection SS-2",
+      "level": "L5",
+      "wbs": "OIL-REF.U3.B.ELE",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Electrical",
+      "area": "Area B",
+      "plannedStart": "2026-09-16",
+      "plannedFinish": "2026-09-30",
+      "duration": 14,
+      "actualStart": "2026-09-17",
+      "actualFinish": null,
+      "progress": 75,
+      "dependencies": [],
+      "contractor": "Digboi Electricals Pvt Ltd",
+      "verification": "Planner Verified",
+      "aiConfidence": 92
+    },
+    {
+      "id": "ELE-C-0338",
+      "name": "Area Lighting Utilities Block",
+      "level": "L5",
+      "wbs": "OIL-REF.U4.C.ELE",
+      "unit": "U4 – Utilities Construction",
+      "discipline": "Electrical",
+      "area": "Area C",
+      "plannedStart": "2026-09-23",
+      "plannedFinish": "2026-10-03",
+      "duration": 10,
+      "actualStart": "2026-09-23",
+      "actualFinish": null,
+      "progress": 30,
+      "dependencies": [],
+      "contractor": "Digboi Electricals Pvt Ltd",
+      "verification": "Planner Verified",
+      "aiConfidence": 93
+    },
+    {
+      "id": "ELE-C-0342",
+      "name": "Earthing Utilities Block",
+      "level": "L6",
+      "wbs": "OIL-REF.U4.C.ELE",
+      "unit": "U4 – Utilities Construction",
+      "discipline": "Electrical",
+      "area": "Area C",
+      "plannedStart": "2026-08-31",
+      "plannedFinish": "2026-09-08",
+      "duration": 8,
+      "actualStart": "2026-08-31",
+      "actualFinish": "2026-09-08",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Digboi Electricals Pvt Ltd",
+      "verification": "Planner Verified",
+      "aiConfidence": 94
+    },
+    {
+      "id": "INS-A-0408",
+      "name": "Instrument Tray Routing",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.INS",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Instrumentation",
+      "area": "Area A",
+      "plannedStart": "2026-09-12",
+      "plannedFinish": "2026-09-22",
+      "duration": 10,
+      "actualStart": "2026-09-13",
+      "actualFinish": "2026-09-24",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Tezpur Instrumentation Co.",
+      "verification": "Planner Verified",
+      "aiConfidence": 95
+    },
+    {
+      "id": "INS-A-0415",
+      "name": "Install Pressure Transmitter PT-2401",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.INS",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Instrumentation",
+      "area": "Area A",
+      "plannedStart": "2026-09-24",
+      "plannedFinish": "2026-09-30",
+      "duration": 6,
+      "actualStart": "2026-09-25",
+      "actualFinish": null,
+      "progress": 30,
+      "dependencies": [
+        "PIP-A-0245"
+      ],
+      "contractor": "Tezpur Instrumentation Co.",
+      "verification": "Planner Verified",
+      "aiConfidence": 96
+    },
+    {
+      "id": "INS-A-0421",
+      "name": "Instrument Calibration Batch 1",
+      "level": "L6",
+      "wbs": "OIL-REF.U2.A.INS",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Instrumentation",
+      "area": "Area A",
+      "plannedStart": "2026-10-01",
+      "plannedFinish": "2026-10-06",
+      "duration": 5,
+      "actualStart": null,
+      "actualFinish": null,
+      "progress": 0,
+      "dependencies": [
+        "INS-A-0415"
+      ],
+      "contractor": "Tezpur Instrumentation Co.",
+      "verification": "System Recorded",
+      "aiConfidence": null
+    },
+    {
+      "id": "INS-A-0445",
+      "name": "Impulse Line Tubing",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.INS",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "Instrumentation",
+      "area": "Area A",
+      "plannedStart": "2026-09-25",
+      "plannedFinish": "2026-10-04",
+      "duration": 9,
+      "actualStart": "2026-09-26",
+      "actualFinish": null,
+      "progress": 20,
+      "dependencies": [],
+      "contractor": "Tezpur Instrumentation Co.",
+      "verification": "Planner Verified",
+      "aiConfidence": 88
+    },
+    {
+      "id": "INS-B-0427",
+      "name": "Control Valve CV-110 Installation",
+      "level": "L5",
+      "wbs": "OIL-REF.U3.B.INS",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Instrumentation",
+      "area": "Area B",
+      "plannedStart": "2026-09-19",
+      "plannedFinish": "2026-09-26",
+      "duration": 7,
+      "actualStart": "2026-09-23",
+      "actualFinish": null,
+      "progress": 20,
+      "dependencies": [],
+      "contractor": "Tezpur Instrumentation Co.",
+      "verification": "Planner Verified",
+      "aiConfidence": 89
+    },
+    {
+      "id": "INS-B-0433",
+      "name": "Junction Box Installation",
+      "level": "L6",
+      "wbs": "OIL-REF.U3.B.INS",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "Instrumentation",
+      "area": "Area B",
+      "plannedStart": "2026-09-08",
+      "plannedFinish": "2026-09-16",
+      "duration": 8,
+      "actualStart": "2026-09-08",
+      "actualFinish": "2026-09-16",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Tezpur Instrumentation Co.",
+      "verification": "Planner Verified",
+      "aiConfidence": 90
+    },
+    {
+      "id": "INS-C-0439",
+      "name": "Fire & Gas Detector Loop Check",
+      "level": "L5",
+      "wbs": "OIL-REF.U4.C.INS",
+      "unit": "U4 – Utilities Construction",
+      "discipline": "Instrumentation",
+      "area": "Area C",
+      "plannedStart": "2026-09-22",
+      "plannedFinish": "2026-10-02",
+      "duration": 10,
+      "actualStart": "2026-09-22",
+      "actualFinish": null,
+      "progress": 45,
+      "dependencies": [],
+      "contractor": "Tezpur Instrumentation Co.",
+      "verification": "Planner Verified",
+      "aiConfidence": 91
+    },
+    {
+      "id": "HSE-A-0601",
+      "name": "Fire Protection Inspection",
+      "level": "L5",
+      "wbs": "OIL-REF.U2.A.HSE",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "HSE",
+      "area": "Area A",
+      "plannedStart": "2026-09-14",
+      "plannedFinish": "2026-09-17",
+      "duration": 3,
+      "actualStart": "2026-09-14",
+      "actualFinish": "2026-09-17",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Site HSE Cell",
+      "verification": "Planner Verified",
+      "aiConfidence": 92
+    },
+    {
+      "id": "HSE-A-0605",
+      "name": "Scaffolding Safety Audit Area A",
+      "level": "L6",
+      "wbs": "OIL-REF.U2.A.HSE",
+      "unit": "U2 – Crude Unit Construction",
+      "discipline": "HSE",
+      "area": "Area A",
+      "plannedStart": "2026-09-26",
+      "plannedFinish": "2026-09-30",
+      "duration": 4,
+      "actualStart": "2026-09-26",
+      "actualFinish": null,
+      "progress": 50,
+      "dependencies": [],
+      "contractor": "Site HSE Cell",
+      "verification": "Planner Verified",
+      "aiConfidence": 93
+    },
+    {
+      "id": "HSE-B-0610",
+      "name": "Confined Space Permit Drill",
+      "level": "L5",
+      "wbs": "OIL-REF.U3.B.HSE",
+      "unit": "U3 – Hydrotreater Construction",
+      "discipline": "HSE",
+      "area": "Area B",
+      "plannedStart": "2026-08-29",
+      "plannedFinish": "2026-08-31",
+      "duration": 2,
+      "actualStart": "2026-08-29",
+      "actualFinish": "2026-08-31",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Site HSE Cell",
+      "verification": "Planner Verified",
+      "aiConfidence": 94
+    },
+    {
+      "id": "HSE-C-0615",
+      "name": "Fire Water Network Flush",
+      "level": "L5",
+      "wbs": "OIL-REF.U4.C.HSE",
+      "unit": "U4 – Utilities Construction",
+      "discipline": "HSE",
+      "area": "Area C",
+      "plannedStart": "2026-09-10",
+      "plannedFinish": "2026-09-17",
+      "duration": 7,
+      "actualStart": "2026-09-11",
+      "actualFinish": "2026-09-19",
+      "progress": 100,
+      "dependencies": [],
+      "contractor": "Site HSE Cell",
+      "verification": "Planner Verified",
+      "aiConfidence": 95
+    }
+  ],
+  "reports": [
+    {
+      "id": "RPT-027",
+      "name": "DPR_027_Area-A-C_27Sep2026.pdf",
+      "type": "Daily Progress Report",
+      "fileType": "PDF",
+      "source": "Daily Progress Report #027",
+      "date": "2026-09-27",
+      "discipline": "Multi-discipline",
+      "status": "Processed",
+      "lines": [
+        "Line 16 inch ZZ weld NDT progressed 62%.",
+        "Area lighting utilities block poles erected, 40% done Area C.",
+        "Control valve CV-110 installation started on Area B."
+      ],
+      "uploadedAt": "2026-09-27 18:00:00"
+    },
+    {
+      "id": "RPT-026",
+      "name": "Contractor_APC_Weekly_38.xlsx",
+      "type": "Contractor Report",
+      "fileType": "XLSX",
+      "source": "Assam Pipeline Constructors Weekly #38",
+      "date": "2026-09-26",
+      "discipline": "Piping",
+      "status": "Processed",
+      "lines": [
+        "Line 12 HT-04 erection 100%."
+      ],
+      "uploadedAt": "2026-09-26 17:30:00"
+    },
+    {
+      "id": "RPT-025",
+      "name": "Schedule_Extract_P6_BL03.csv",
+      "type": "Schedule Extract",
+      "fileType": "CSV",
+      "source": "Primavera P6 Extract",
+      "date": "2026-09-25",
+      "discipline": "All",
+      "status": "Processed",
+      "lines": [],
+      "uploadedAt": "2026-09-25 09:00:00"
+    }
+  ],
+  "events": [
+    {
+      "id": "EVT-0091",
+      "reportId": "RPT-027",
+      "source": "Daily Progress Report #027",
+      "text": "Line 16 inch ZZ weld NDT progressed 62%.",
+      "discipline": "Piping",
+      "description": "Line 16 inch ZZ weld NDT",
+      "area": "Area A",
+      "event": "PROGRESS",
+      "date": "2026-09-27",
+      "time": null,
+      "progress": 62,
+      "extractionConfidence": 94,
+      "candidates": [
+        {
+          "activityId": "PIP-A-0258",
+          "confidence": 95,
+          "reasons": [
+            "Discipline matches: Piping",
+            "Line size matches: 16 inch",
+            "Semantic similarity on: weld, ndt"
+          ],
+          "ambiguities": []
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "EVT-0092",
+      "reportId": "RPT-027",
+      "source": "Daily Progress Report #027",
+      "text": "Area lighting utilities block poles erected, 40% done Area C.",
+      "discipline": "Electrical",
+      "description": "Area lighting utilities block poles",
+      "area": "Area C",
+      "event": "PROGRESS",
+      "date": "2026-09-27",
+      "time": null,
+      "progress": 40,
+      "extractionConfidence": 92,
+      "candidates": [
+        {
+          "activityId": "ELE-C-0338",
+          "confidence": 91,
+          "reasons": [
+            "Discipline matches: Electrical",
+            "Area matches: Area C",
+            "Semantic similarity on: lighting, utilities"
+          ],
+          "ambiguities": []
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "EVT-0093",
+      "reportId": "RPT-027",
+      "source": "Daily Progress Report #027",
+      "text": "Control valve CV-110 installation started on Area B.",
+      "discipline": "Instrumentation",
+      "description": "Control valve CV-110 installation",
+      "area": "Area B",
+      "event": "START",
+      "date": "2026-09-27",
+      "time": null,
+      "progress": 10,
+      "extractionConfidence": 95,
+      "candidates": [
+        {
+          "activityId": "INS-B-0427",
+          "confidence": 96,
+          "reasons": [
+            "Discipline matches: Instrumentation",
+            "Equipment / tag reference matches: CV110",
+            "Area matches: Area B"
+          ],
+          "ambiguities": []
+        }
+      ],
+      "status": "pending"
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "UNM-011",
+      "text": "Temporary scaffold access platform built near column C-101 for internals work.",
+      "source": "Daily Progress Report #027",
+      "date": "2026-09-27",
+      "discipline": "Mechanical",
+      "area": "Area A",
+      "occurrences": 4,
+      "closest": "MEC-A-0508",
+      "closestConfidence": 48,
+      "aiConfidence": 84,
+      "explanation": "Enabling work performed on site that is not represented as a discrete L6 activity.",
+      "status": "Open"
+    },
+    {
+      "id": "UNM-012",
+      "text": "Additional drain funnel installed at P-102 baseplate per field instruction FI-219.",
+      "source": "Assam Pipeline Constructors Weekly #38",
+      "date": "2026-09-26",
+      "discipline": "Piping",
+      "area": "Area B",
+      "occurrences": 2,
+      "closest": "ROT-B-0526",
+      "closestConfidence": 41,
+      "aiConfidence": 79,
+      "explanation": "Field-instruction scope that appears to have no baseline schedule activity.",
+      "status": "Open"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "CON-004",
+      "activityId": "PIP-B-0277",
+      "kind": "PROGRESS CONFLICT",
+      "status": "Open",
+      "sources": [
+        {
+          "source": "Contractor Daily Report",
+          "document": "APC_Daily_27Sep.xlsx",
+          "timestamp": "2026-09-27 18:10",
+          "progress": 100,
+          "author": "Assam Pipeline Constructors",
+          "note": "Line 12\"-HT-04 erection complete, ready for hydrotest."
+        },
+        {
+          "source": "Supervisor Site Diary",
+          "document": "SiteDiary_Supervisor_RK_27Sep.docx",
+          "timestamp": "2026-09-27 17:45",
+          "progress": 70,
+          "author": "R. Kalita (Site Supervisor)",
+          "note": "Final two spools pending, bolting incomplete at flange F-7."
+        }
+      ]
+    },
+    {
+      "id": "CON-005",
+      "activityId": "ELE-B-0332",
+      "kind": "STATUS CONFLICT",
+      "status": "Open",
+      "sources": [
+        {
+          "source": "Discipline Tracker",
+          "document": "Discipline_Progress_Wk39.xlsx",
+          "timestamp": "2026-09-27 09:00",
+          "progress": 75,
+          "author": "Electrical Planning Desk",
+          "note": "MCC panels 6 of 8 erected."
+        },
+        {
+          "source": "Contractor Daily Report",
+          "document": "DEPL_DPR_27Sep.pdf",
+          "timestamp": "2026-09-27 19:20",
+          "progress": 95,
+          "author": "Digboi Electricals Pvt Ltd",
+          "note": "All MCC panels erected, glanding in progress."
+        }
+      ]
+    }
+  ],
+  "crossLinks": [
+    {
+      "id": "XD-01",
+      "title": "Foundation release to cable pulling chain",
+      "severity": "high",
+      "chain": [
+        {
+          "activityId": "CIV-A-0102",
+          "state": "Foundation F102 near completion",
+          "tone": "ok"
+        },
+        {
+          "activityId": "PIP-A-0245",
+          "state": "Line 24\" erection started late",
+          "tone": "warn"
+        },
+        {
+          "activityId": "ELE-A-0320",
+          "state": "Cable pulling blocked — rack occupied",
+          "tone": "risk"
+        },
+        {
+          "activityId": "INS-A-0415",
+          "state": "Transmitter hook-up waiting on line",
+          "tone": "warn"
+        }
+      ],
+      "insight": "Piping erection on PR-1 is occupying the shared rack tier. Electrical cable pulling cannot begin until Line 24\" is supported, which may cascade into instrument hook-up."
+    },
+    {
+      "id": "XD-02",
+      "title": "Pump P-101 installation readiness",
+      "severity": "medium",
+      "chain": [
+        {
+          "activityId": "CIV-B-0112",
+          "state": "Plinth complete & cured",
+          "tone": "ok"
+        },
+        {
+          "activityId": "MEC-A-0510",
+          "state": "Pump setting planned 29 Sep",
+          "tone": "info"
+        },
+        {
+          "activityId": "PIP-B-0277",
+          "state": "Suction line progress disputed",
+          "tone": "risk"
+        }
+      ],
+      "insight": "Pump P-101 can be set on schedule, but suction piping progress is in conflict between sources (CON-004). Resolve before hook-up is scheduled."
+    },
+    {
+      "id": "XD-03",
+      "title": "Compressor alignment vs. HSE permits",
+      "severity": "low",
+      "chain": [
+        {
+          "activityId": "HSE-A-0605",
+          "state": "Scaffold audit in progress",
+          "tone": "info"
+        },
+        {
+          "activityId": "ROT-A-0520",
+          "state": "Alignment resumed after hold",
+          "tone": "warn"
+        },
+        {
+          "activityId": "ELE-A-0314",
+          "state": "Tray above K-201 at 65%",
+          "tone": "info"
+        }
+      ],
+      "insight": "Overhead cable tray work above K-201 overlaps the compressor alignment window. Consider permit sequencing to avoid simultaneous operations."
+    }
+  ],
+  "memory": [
+    {
+      "id": "MEM-01",
+      "activityType": "24 inch Pipe Erection",
+      "discipline": "Piping",
+      "occurrences": 18,
+      "plannedAvg": 5.2,
+      "actualAvg": 6.7,
+      "causes": [
+        {
+          "cause": "Material availability",
+          "share": 38
+        },
+        {
+          "cause": "Crane availability",
+          "share": 27
+        },
+        {
+          "cause": "Manpower",
+          "share": 21
+        },
+        {
+          "cause": "Weather",
+          "share": 14
+        }
+      ],
+      "contractor": "Assam Pipeline Constructors",
+      "location": "Pipe racks, process units",
+      "previousProjects": [
+        "NRL Expansion 2019",
+        "Duliajan GCS Revamp 2021",
+        "Numaligarh DHDT 2023"
+      ]
+    },
+    {
+      "id": "MEM-02",
+      "activityType": "Static Equipment Installation",
+      "discipline": "Mechanical",
+      "occurrences": 26,
+      "plannedAvg": 8,
+      "actualAvg": 9.1,
+      "causes": [
+        {
+          "cause": "Crane availability",
+          "share": 41
+        },
+        {
+          "cause": "Foundation readiness",
+          "share": 29
+        },
+        {
+          "cause": "Vendor documentation",
+          "share": 18
+        },
+        {
+          "cause": "Weather",
+          "share": 12
+        }
+      ],
+      "contractor": "Northeast Mech Erectors",
+      "location": "Process units",
+      "previousProjects": [
+        "Duliajan GCS Revamp 2021",
+        "Bongaigaon CDU 2022"
+      ]
+    },
+    {
+      "id": "MEM-03",
+      "activityType": "Pump Installation & Alignment",
+      "discipline": "Rotating",
+      "occurrences": 34,
+      "plannedAvg": 5.5,
+      "actualAvg": 7.4,
+      "causes": [
+        {
+          "cause": "Grouting cure time",
+          "share": 33
+        },
+        {
+          "cause": "Piping strain rework",
+          "share": 31
+        },
+        {
+          "cause": "Vendor specialist",
+          "share": 22
+        },
+        {
+          "cause": "Manpower",
+          "share": 14
+        }
+      ],
+      "contractor": "Kaziranga Rotating Services",
+      "location": "Pump alleys",
+      "previousProjects": [
+        "NRL Expansion 2019",
+        "Numaligarh DHDT 2023"
+      ]
+    },
+    {
+      "id": "MEM-04",
+      "activityType": "Equipment Foundation Concreting",
+      "discipline": "Civil",
+      "occurrences": 41,
+      "plannedAvg": 9,
+      "actualAvg": 9.6,
+      "causes": [
+        {
+          "cause": "Weather",
+          "share": 46
+        },
+        {
+          "cause": "Concrete supply",
+          "share": 28
+        },
+        {
+          "cause": "Rebar inspection",
+          "share": 26
+        }
+      ],
+      "contractor": "Brahmaputra Civil Works",
+      "location": "All units",
+      "previousProjects": [
+        "Bongaigaon CDU 2022",
+        "Duliajan GCS Revamp 2021"
+      ]
+    },
+    {
+      "id": "MEM-05",
+      "activityType": "Cable Tray & Power Cable Pulling",
+      "discipline": "Electrical",
+      "occurrences": 22,
+      "plannedAvg": 11,
+      "actualAvg": 13.2,
+      "causes": [
+        {
+          "cause": "Rack access (piping clash)",
+          "share": 44
+        },
+        {
+          "cause": "Cable delivery",
+          "share": 30
+        },
+        {
+          "cause": "Manpower",
+          "share": 26
+        }
+      ],
+      "contractor": "Digboi Electricals Pvt Ltd",
+      "location": "Rack tiers, trenches",
+      "previousProjects": [
+        "NRL Expansion 2019",
+        "Numaligarh DHDT 2023"
+      ]
+    },
+    {
+      "id": "MEM-06",
+      "activityType": "Instrument Installation & Calibration",
+      "discipline": "Instrumentation",
+      "occurrences": 29,
+      "plannedAvg": 6,
+      "actualAvg": 6.8,
+      "causes": [
+        {
+          "cause": "Line readiness",
+          "share": 40
+        },
+        {
+          "cause": "Calibration equipment",
+          "share": 25
+        },
+        {
+          "cause": "Vendor documentation",
+          "share": 35
+        }
+      ],
+      "contractor": "Tezpur Instrumentation Co.",
+      "location": "Process units",
+      "previousProjects": [
+        "Bongaigaon CDU 2022"
+      ]
+    },
+    {
+      "id": "MEM-07",
+      "activityType": "Hydrotest Loop",
+      "discipline": "Piping",
+      "occurrences": 15,
+      "plannedAvg": 4,
+      "actualAvg": 5.6,
+      "causes": [
+        {
+          "cause": "Punch list closure",
+          "share": 42
+        },
+        {
+          "cause": "Water availability",
+          "share": 23
+        },
+        {
+          "cause": "Test pack documentation",
+          "share": 35
+        }
+      ],
+      "contractor": "Assam Pipeline Constructors",
+      "location": "All units",
+      "previousProjects": [
+        "Duliajan GCS Revamp 2021",
+        "Numaligarh DHDT 2023"
+      ]
+    }
+  ],
+  "audit": [
+    {
+      "id": "AUD-0141",
+      "timestamp": "27 Sep 2026, 06:12 PM",
+      "source": "Daily Progress Report #027",
+      "sourceText": "PR-1 pipe support installation continuing, approx 60%.",
+      "detected": "PROGRESS 60%",
+      "activityId": "PIP-A-0271",
+      "confidence": 93,
+      "field": "Actual Progress",
+      "previous": "48%",
+      "next": "60%",
+      "reviewer": "Project Planner",
+      "status": "Approved"
+    },
+    {
+      "id": "AUD-0140",
+      "timestamp": "27 Sep 2026, 05:40 PM",
+      "source": "Daily Progress Report #027",
+      "sourceText": "Transformer TR-2 installation completed and handed over.",
+      "detected": "END",
+      "activityId": "ELE-B-0326",
+      "confidence": 97,
+      "field": "Actual Finish",
+      "previous": "—",
+      "next": "23 Sep 2026",
+      "reviewer": "Project Planner",
+      "status": "Approved"
+    },
+    {
+      "id": "AUD-0139",
+      "timestamp": "27 Sep 2026, 11:05 AM",
+      "source": "Assam Pipeline Constructors Weekly #38",
+      "sourceText": "Line 12 HT-04 erection 100%.",
+      "detected": "END",
+      "activityId": "PIP-B-0277",
+      "confidence": 88,
+      "field": "Actual Finish",
+      "previous": "—",
+      "next": "—",
+      "reviewer": "System",
+      "status": "Flagged"
+    },
+    {
+      "id": "AUD-0138",
+      "timestamp": "26 Sep 2026, 04:22 PM",
+      "source": "Supervisor Site Diary 26-Sep",
+      "sourceText": "K-201 alignment on hold for shim plates.",
+      "detected": "PROGRESS",
+      "activityId": "ROT-A-0520",
+      "confidence": 91,
+      "field": "Actual Progress",
+      "previous": "20%",
+      "next": "20%",
+      "reviewer": "Project Manager",
+      "status": "Approved"
+    }
+  ],
+  "settings": {
+    "highThreshold": 90,
+    "reviewThreshold": 75,
+    "unmatchedThreshold": 65,
+    "aiProvider": "demo"
+  },
+  "seq": 300
+}

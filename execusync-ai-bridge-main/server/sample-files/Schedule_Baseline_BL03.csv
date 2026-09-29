@@ -1,0 +1,9 @@
+Activity ID,Activity Name,WBS,Discipline,Area,Planned Start,Planned Finish,Duration,Contractor
+PIP-A-0245,Erect Line 24"-XX,OIL-REF.U2.A.PIP,Piping,Area A,2026-09-25,2026-09-30,5,Assam Pipeline Constructors
+PIP-A-0246,Erect Line 18"-YY,OIL-REF.U2.A.PIP,Piping,Area A,2026-09-24,2026-10-01,7,Assam Pipeline Constructors
+CIV-A-0102,Foundation F-102 Concreting,OIL-REF.U2.A.CIV,Civil,Area A,2026-09-20,2026-09-30,10,Brahmaputra Civil Works
+ELE-A-0314,Install Cable Tray Unit 2,OIL-REF.U2.A.ELE,Electrical,Area A,2026-09-18,2026-10-02,14,Digboi Electricals Pvt Ltd
+INS-A-0415,Install Pressure Transmitter PT-2401,OIL-REF.U2.A.INS,Instrumentation,Area A,2026-09-24,2026-09-30,6,Tezpur Instrumentation Co.
+MEC-A-0508,Column C-101 Internals Installation,OIL-REF.U2.A.MEC,Mechanical,Area A,2026-09-21,2026-10-05,14,Northeast Mech Erectors
+ROT-A-0520,Compressor K-201 Alignment,OIL-REF.U2.A.ROT,Rotating,Area A,2026-09-18,2026-09-28,10,Kaziranga Rotating Services
+HSE-A-0605,Scaffolding Safety Audit Area A,OIL-REF.U2.A.HSE,HSE,Area A,2026-09-26,2026-09-30,4,Site HSE Cell
