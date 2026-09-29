@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "npm --prefix execusync-ai-bridge-main run dev",
     "dev:all": "npm --prefix execusync-ai-bridge-main run dev:all",
-    "build": "npm --prefix execusync-ai-bridge-main run build",
+    "build": "cd execusync-ai-bridge-main && npm install && npm run build",
     "start": "npm --prefix execusync-ai-bridge-main run start",
     "backend": "npm --prefix execusync-ai-bridge-main run backend"
   }
