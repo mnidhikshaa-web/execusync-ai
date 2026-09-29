@@ -11,7 +11,11 @@ import type {
   Unmatched,
 } from "./types";
 
-const API_BASE = "http://localhost:8000/api";
+const API_BASE = import.meta.env?.VITE_API_URL
+  ? import.meta.env.VITE_API_URL
+  : typeof window !== "undefined" && window.location.hostname === "localhost" && window.location.port !== "8000"
+    ? "http://localhost:8000/api"
+    : "/api";
 
 async function request<T>(path: string, options?: RequestInit): Promise<T> {
   const url = `${API_BASE}${path.startsWith("/") ? path : `/${path}`}`;
