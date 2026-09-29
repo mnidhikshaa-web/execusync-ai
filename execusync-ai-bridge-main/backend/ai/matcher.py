@@ -116,7 +116,8 @@ def match_activity_to_schedule(text: str, extraction: Dict[str, Any], activities
             score += semantic_score
             breakdown["semantic"] = round(semantic_score, 2)
             if shared_words:
-                reasons.append(f"Semantic similarity on: {', '.join(['\"' + w + '\"' for w in shared_words])}")
+                shared_str = ', '.join([f'"{w}"' for w in shared_words])
+                reasons.append(f"Semantic similarity on: {shared_str}")
                 
         # 6. Suffix / Line Designation
         shared_suffix = list(obs_tokens["suffix"].intersection(act_tokens["suffix"]))
